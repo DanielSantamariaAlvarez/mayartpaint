@@ -8,8 +8,8 @@ $subject =$_POST['subject'];
 $message = $_POST['message'];
 
 // Datos para el correo
-$destinatario = "d.s.a.dan@hotmail.com";
-$asunto = "Contact Mayart Paint";
+$destinatario = "yarivalerojimenez@gmail.com";
+$asunto = "Contact from Mayart Paint";
 
 $carta = "From: $name \n";
 $carta .= "Email: $email \n";
