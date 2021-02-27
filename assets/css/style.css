@@ -1167,6 +1167,10 @@ section {
     font-size: 16px;
     padding: 0 10px;
   }
+
+  .service-details .card-title {
+    font-size: 20px;
+  }
 }
 
 .service-details .read-more a {
